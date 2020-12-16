@@ -22,13 +22,7 @@ table tr td{
 <h1 style="color:white; background:blue;font-size:60px;"><marquee>হেরম্ব গোপাল পুর রেশন উপভোক্তা সার্ভিস পয়েন্ট !</marquee></h1>
 <br></center>
 	<h2 style="background:black; color: gray;font-size:100px;width:60%;box-shadow:6px 6px 6px aqua;padding:20px; margin-left:100px; text-shadow:4px 4px 4px aqua; border-radius:6px;">
-	<?php
-	$space="&nbsp";
-	echo "Welcome"; 
-	echo $space;
-	echo $space;
-echo $_POST["name"];
-	?>
+	
 </h2><a href="tel:9732414918" style="width:30%; background: orange;color: white; text-decoration:none; font-size:40px; margin-left:73%; margin-top: -30%; padding:10px; border-radius:50px; font-weight:bold; ">ফোন করুন !</a>
 <br>
 	<center>
