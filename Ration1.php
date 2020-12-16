@@ -2,6 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
+<title>স্বাগতম আপনাকে হেরম্বগোপালপুরের রেশন পোর্টাল এ !</title>
 <meta name="viewport" content="width=device width, initial-scale 1.0"/>
 <style>
 *{
